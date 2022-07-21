@@ -11,6 +11,8 @@
 
 body {
     text-align: center;
+    cursor:default;
+    user-select: none;
 }
 
 #hero {
@@ -49,3 +51,5 @@ footer {
     bottom:0;
     right: 0;
 }
+
+@import "partials/animations";
