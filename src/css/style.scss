@@ -9,26 +9,30 @@
 @import "partials/colors";
 @import "partials/typography";
 
-body{
+body {
     text-align: center;
 }
 
-#hero{
+#hero {
     max-width: 592px;
-    margin: auto;
-}
+    margin: 0 auto 72px;
 
-svg {
-    width: 100%;
+    img {
+        padding-bottom: 72px;
+    }
 }
 
 span {
     color: $emphasis;
 }
 
-
-
 a {
     text-decoration: none;
     color: $emphasis;
+}
+
+footer {
+    a + a {
+        margin-left: 28px;
+    }
 }

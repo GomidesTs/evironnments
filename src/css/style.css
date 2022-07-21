@@ -34,11 +34,11 @@ body {
 
 #hero {
   max-width: 592px;
-  margin: auto;
+  margin: 0 auto 72px;
 }
 
-svg {
-  width: 100%;
+#hero img {
+  padding-bottom: 72px;
 }
 
 span {
@@ -48,5 +48,9 @@ span {
 a {
   text-decoration: none;
   color: #FF9900;
+}
+
+footer a + a {
+  margin-left: 28px;
 }
 /*# sourceMappingURL=style.css.map */
