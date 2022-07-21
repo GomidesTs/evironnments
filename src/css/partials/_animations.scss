@@ -1,0 +1,117 @@
+/* The animation for the balls. */
+
+.ball-1 {
+    animation: appear 2s ease forwards alternate;
+    opacity: 0;
+}
+
+.ball-3 {
+    animation: appear 2s 1s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-5 {
+    animation: appear 2s 2s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-7 {
+    animation: appear 2s 3s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-9 {
+    animation: appear 2s 4s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-11 {
+    animation: appear 2s 5s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-13 {
+    animation: appear 2s 6s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-15 {
+    animation: appear 2s 7s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-17 {
+    animation: appear 2s 8s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-19 {
+    animation: appear 2s 9s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-21 {
+    animation: appear 2s 10s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-23 {
+    animation: appear 2s 11s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-25 {
+    animation: appear 2s 12s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-27 {
+    animation: appear 2s 13s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-29 {
+    animation: appear 2s 14s ease infinite alternate;
+    opacity: 0;
+}
+
+.ball-31 {
+    animation: appear 2s 15s ease infinite alternate;
+    opacity: 0;
+}
+
+@keyframes appear {
+    0% {
+        opacity: 0.5;
+        transform: scale(0.2);
+    }
+    25% {
+        transform: scale(0.5);
+    }
+    50% {
+        opacity: 0.5;
+        transform: scale(1.05);
+    }
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+/* The animation for the lamps. */
+.light {
+    animation: light-up 15s ease infinite alternate;
+    opacity: 0;
+}
+
+@keyframes light-up {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
