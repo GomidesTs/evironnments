@@ -12,3 +12,9 @@ h1 {
 body {
     font-family: "Open Sans", sans-serif;
 }
+
+p {
+    color: $paragraph;
+    font-size: 14px;
+    line-height: 28px;
+}

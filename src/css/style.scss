@@ -6,8 +6,8 @@
     padding: 0;
 }
 
-@import "partials/typography";
 @import "partials/colors";
+@import "partials/typography";
 
 body{
     text-align: center;
@@ -26,9 +26,7 @@ span {
     color: $emphasis;
 }
 
-p {
-    color: $paragraph;
-}
+
 
 a {
     text-decoration: none;

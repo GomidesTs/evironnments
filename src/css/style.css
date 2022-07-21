@@ -22,6 +22,12 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+p {
+  color: #7D7987;
+  font-size: 14px;
+  line-height: 28px;
+}
+
 body {
   text-align: center;
 }
@@ -37,10 +43,6 @@ svg {
 
 span {
   color: #FF9900;
-}
-
-p {
-  color: #7D7987;
 }
 
 a {
