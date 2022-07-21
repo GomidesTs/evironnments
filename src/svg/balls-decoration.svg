@@ -1,6 +1,6 @@
 <svg width="86" height="78" viewBox="0 0 86 78" fill="none" xmlns="http://www.w3.org/2000/svg">
 	<g id="balls-decoration" opacity="0.3">
-		<g id="Group">
+		<g id="Group" class="ball-1">
 			<mask id="mask0_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="8" height="8">
 				<g id="SVGID 141">
 					<g id="Group_2">
@@ -12,7 +12,7 @@
 				<path id="Vector_2" d="M3.90962 7.97735C6.06885 7.97735 7.81925 6.19152 7.81925 3.98865C7.81925 1.78577 6.06885 0 3.90962 0C1.7504 0 0 1.78577 0 3.98865C0 6.19152 1.7504 7.97735 3.90962 7.97735Z" fill="url(#paint1_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_3">
+		<g id="Group_3" class="ball-3">
 			<mask id="mask1_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="22" y="0" width="9" height="8">
 				<g id="SVGID 144">
 					<g id="Group_4">
@@ -24,7 +24,7 @@
 				<path id="Vector_4" d="M26.5529 7.97735C28.7121 7.97735 30.4625 6.19152 30.4625 3.98865C30.4625 1.78577 28.7121 0 26.5529 0C24.3937 0 22.6432 1.78577 22.6432 3.98865C22.6432 6.19152 24.3937 7.97735 26.5529 7.97735Z" fill="url(#paint3_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_5">
+		<g id="Group_5" class="ball-5">
 			<mask id="mask2_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="45" y="0" width="9" height="8">
 				<g id="SVGID 147">
 					<g id="Group_6">
@@ -36,7 +36,7 @@
 				<path id="Vector_6" d="M49.196 7.97735C51.3552 7.97735 53.1056 6.19152 53.1056 3.98865C53.1056 1.78577 51.3552 0 49.196 0C47.0368 0 45.2864 1.78577 45.2864 3.98865C45.2864 6.19152 47.0368 7.97735 49.196 7.97735Z" fill="url(#paint5_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_7">
+		<g id="Group_7" class="ball-7">
 			<mask id="mask3_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="67" y="0" width="9" height="8">
 				<g id="SVGID 150">
 					<g id="Group_8">
@@ -48,7 +48,7 @@
 				<path id="Vector_8" d="M71.8388 7.97735C73.998 7.97735 75.7484 6.19152 75.7484 3.98865C75.7484 1.78577 73.998 0 71.8388 0C69.6795 0 67.9291 1.78577 67.9291 3.98865C67.9291 6.19152 69.6795 7.97735 71.8388 7.97735Z" fill="url(#paint7_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_9">
+		<g id="Group_9" class="ball-9">
 			<mask id="mask4_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="20" width="8" height="9">
 				<g id="SVGID 156">
 					<g id="Group_10">
@@ -60,7 +60,7 @@
 				<path id="Vector_10" d="M3.90962 28.0037C6.06885 28.0037 7.81925 26.218 7.81925 24.0151C7.81925 21.8122 6.06885 20.0265 3.90962 20.0265C1.7504 20.0265 0 21.8122 0 24.0151C0 26.218 1.7504 28.0037 3.90962 28.0037Z" fill="url(#paint9_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_11">
+		<g id="Group_11" class="ball-11">
 			<mask id="mask5_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="22" y="20" width="9" height="9">
 				<g id="SVGID 159">
 					<g id="Group_12">
@@ -72,7 +72,7 @@
 				<path id="Vector_12" d="M26.5529 28.0037C28.7121 28.0037 30.4625 26.2179 30.4625 24.0151C30.4625 21.8122 28.7121 20.0264 26.5529 20.0264C24.3937 20.0264 22.6432 21.8122 22.6432 24.0151C22.6432 26.2179 24.3937 28.0037 26.5529 28.0037Z" fill="url(#paint11_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_13">
+		<g id="Group_13" class="ball-13">
 			<mask id="mask6_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="45" y="20" width="9" height="9">
 				<g id="SVGID 162">
 					<g id="Group_14">
@@ -84,7 +84,7 @@
 				<path id="Vector_14" d="M49.196 28.0037C51.3552 28.0037 53.1056 26.2179 53.1056 24.0151C53.1056 21.8122 51.3552 20.0264 49.196 20.0264C47.0368 20.0264 45.2864 21.8122 45.2864 24.0151C45.2864 26.2179 47.0368 28.0037 49.196 28.0037Z" fill="url(#paint13_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_15">
+		<g id="Group_15" class="ball-15">
 			<mask id="mask7_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="67" y="20" width="9" height="9">
 				<g id="SVGID 165">
 					<g id="Group_16">
@@ -96,7 +96,7 @@
 				<path id="Vector_16" d="M71.8388 28.0037C73.998 28.0037 75.7484 26.2179 75.7484 24.0151C75.7484 21.8122 73.998 20.0264 71.8388 20.0264C69.6795 20.0264 67.9291 21.8122 67.9291 24.0151C67.9291 26.2179 69.6795 28.0037 71.8388 28.0037Z" fill="url(#paint15_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_17">
+		<g id="Group_17" class="ball-17">
 			<mask id="mask8_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="40" width="8" height="8">
 				<g id="SVGID 171">
 					<g id="Group_18">
@@ -108,7 +108,7 @@
 				<path id="Vector_18" d="M3.90962 47.9888C6.06885 47.9888 7.81925 46.203 7.81925 44.0001C7.81925 41.7972 6.06885 40.0114 3.90962 40.0114C1.7504 40.0114 0 41.7972 0 44.0001C0 46.203 1.7504 47.9888 3.90962 47.9888Z" fill="url(#paint17_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_19">
+		<g id="Group_19" class="ball-19">
 			<mask id="mask9_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="22" y="40" width="9" height="8">
 				<g id="SVGID 174">
 					<g id="Group_20">
@@ -120,7 +120,7 @@
 				<path id="Vector_20" d="M26.5529 47.9888C28.7121 47.9888 30.4625 46.203 30.4625 44.0001C30.4625 41.7972 28.7121 40.0114 26.5529 40.0114C24.3937 40.0114 22.6432 41.7972 22.6432 44.0001C22.6432 46.203 24.3937 47.9888 26.5529 47.9888Z" fill="url(#paint19_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_21">
+		<g id="Group_21" class="ball-21">
 			<mask id="mask10_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="45" y="40" width="9" height="8">
 				<g id="SVGID 177">
 					<g id="Group_22">
@@ -132,7 +132,7 @@
 				<path id="Vector_22" d="M49.196 47.9888C51.3552 47.9888 53.1056 46.203 53.1056 44.0001C53.1056 41.7972 51.3552 40.0114 49.196 40.0114C47.0368 40.0114 45.2864 41.7972 45.2864 44.0001C45.2864 46.203 47.0368 47.9888 49.196 47.9888Z" fill="url(#paint21_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_23">
+		<g id="Group_23" class="ball-23">
 			<mask id="mask11_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="67" y="40" width="9" height="8">
 				<g id="SVGID 180">
 					<g id="Group_24">
@@ -144,7 +144,7 @@
 				<path id="Vector_24" d="M71.8388 47.9888C73.998 47.9888 75.7484 46.203 75.7484 44.0001C75.7484 41.7972 73.998 40.0114 71.8388 40.0114C69.6795 40.0114 67.9291 41.7972 67.9291 44.0001C67.9291 46.203 69.6795 47.9888 71.8388 47.9888Z" fill="url(#paint23_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_25">
+		<g id="Group_25" class="ball-25">
 			<mask id="mask12_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="60" width="8" height="9">
 				<g id="SVGID 186">
 					<g id="Group_26">
@@ -156,7 +156,7 @@
 				<path id="Vector_26" d="M3.90962 68.0152C6.06885 68.0152 7.81925 66.2294 7.81925 64.0265C7.81925 61.8236 6.06885 60.0379 3.90962 60.0379C1.7504 60.0379 0 61.8236 0 64.0265C0 66.2294 1.7504 68.0152 3.90962 68.0152Z" fill="url(#paint25_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_27">
+		<g id="Group_27" class="ball-27">
 			<mask id="mask13_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="22" y="60" width="9" height="9">
 				<g id="SVGID 189">
 					<g id="Group_28">
@@ -168,7 +168,7 @@
 				<path id="Vector_28" d="M26.5529 68.0152C28.7121 68.0152 30.4625 66.2294 30.4625 64.0265C30.4625 61.8236 28.7121 60.0379 26.5529 60.0379C24.3937 60.0379 22.6432 61.8236 22.6432 64.0265C22.6432 66.2294 24.3937 68.0152 26.5529 68.0152Z" fill="url(#paint27_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_29">
+		<g id="Group_29"  class="ball-29">
 			<mask id="mask14_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="45" y="60" width="9" height="9">
 				<g id="SVGID 192">
 					<g id="Group_30">
@@ -180,7 +180,7 @@
 				<path id="Vector_30" d="M49.196 68.0152C51.3552 68.0152 53.1056 66.2294 53.1056 64.0265C53.1056 61.8236 51.3552 60.0379 49.196 60.0379C47.0368 60.0379 45.2864 61.8236 45.2864 64.0265C45.2864 66.2294 47.0368 68.0152 49.196 68.0152Z" fill="url(#paint29_linear_1_11)" />
 			</g>
 		</g>
-		<g id="Group_31">
+		<g id="Group_31" class="ball-31">
 			<mask id="mask15_1_11" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="67" y="60" width="9" height="9">
 				<g id="SVGID 195">
 					<g id="Group_32">
