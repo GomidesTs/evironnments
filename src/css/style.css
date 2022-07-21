@@ -9,6 +9,13 @@
 
 h1 {
   font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+}
+
+h1 span {
+  font-weight: bold;
 }
 
 body {
@@ -17,5 +24,18 @@ body {
 
 svg {
   width: 100%;
+}
+
+span {
+  color: #FF9900;
+}
+
+p {
+  color: #7D7987;
+}
+
+a {
+  text-decoration: none;
+  color: #FF9900;
 }
 /*# sourceMappingURL=style.css.map */
