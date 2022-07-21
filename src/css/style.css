@@ -26,6 +26,7 @@ p {
   color: #7D7987;
   font-size: 14px;
   line-height: 28px;
+  margin-top: 16px;
 }
 
 body {
@@ -59,5 +60,11 @@ a {
 
 footer a + a {
   margin-left: 28px;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
 /*# sourceMappingURL=style.css.map */
