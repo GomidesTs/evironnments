@@ -7,8 +7,21 @@
 }
 
 @import "partials/typography";
+@import "partials/colors";
 
-svg{
+svg {
     width: 100%;
 }
 
+span {
+    color: $emphasis;
+}
+
+p {
+    color: $paragraph;
+}
+
+a {
+    text-decoration: none;
+    color: $emphasis;
+}
